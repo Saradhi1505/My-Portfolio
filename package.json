@@ -1,9 +1,9 @@
 {
-  "name": "my-portfolio",
+  "name": "my_portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Saradhi1505.github.io/My-Portfolio/",
+  "homepage": "https://saradhi1505.github.io/My_Portfolio/",
   "description": "My portfolio website",
   "author": "Pardha Saradhi Alapati",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vite build && gh-pages -d dist" 
+    "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.0.0",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
-    "vite": "^6.2.0",
-    "gh-pages": "^5.0.0" 
+    "gh-pages": "^5.0.0",
+    "vite": "^6.2.0"
   }
 }
